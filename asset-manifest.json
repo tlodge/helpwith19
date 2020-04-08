@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/www.helpwith19.org/static/css/main.e7ef815d.chunk.css",
-    "main.js": "/www.helpwith19.org/static/js/main.8b3fff90.chunk.js",
-    "main.js.map": "/www.helpwith19.org/static/js/main.8b3fff90.chunk.js.map",
-    "runtime-main.js": "/www.helpwith19.org/static/js/runtime-main.4362ce89.js",
-    "runtime-main.js.map": "/www.helpwith19.org/static/js/runtime-main.4362ce89.js.map",
-    "static/css/2.1b1d9db8.chunk.css": "/www.helpwith19.org/static/css/2.1b1d9db8.chunk.css",
-    "static/js/2.f6d1bd69.chunk.js": "/www.helpwith19.org/static/js/2.f6d1bd69.chunk.js",
-    "static/js/2.f6d1bd69.chunk.js.map": "/www.helpwith19.org/static/js/2.f6d1bd69.chunk.js.map",
-    "index.html": "/www.helpwith19.org/index.html",
-    "precache-manifest.32d2a7d2fc17650c689704a6c96f6e73.js": "/www.helpwith19.org/precache-manifest.32d2a7d2fc17650c689704a6c96f6e73.js",
-    "service-worker.js": "/www.helpwith19.org/service-worker.js",
-    "static/css/2.1b1d9db8.chunk.css.map": "/www.helpwith19.org/static/css/2.1b1d9db8.chunk.css.map",
-    "static/css/main.e7ef815d.chunk.css.map": "/www.helpwith19.org/static/css/main.e7ef815d.chunk.css.map",
-    "static/js/2.f6d1bd69.chunk.js.LICENSE.txt": "/www.helpwith19.org/static/js/2.f6d1bd69.chunk.js.LICENSE.txt",
-    "static/media/Raleway-Regular.ttf": "/www.helpwith19.org/static/media/Raleway-Regular.9942588a.ttf",
-    "static/media/banner.svg": "/www.helpwith19.org/static/media/banner.be5b57e3.svg",
-    "static/media/blueprint-icons.css": "/www.helpwith19.org/static/media/icons-20.cef8cdbb.woff"
+    "main.css": "/static/css/main.e7ef815d.chunk.css",
+    "main.js": "/static/js/main.c487c640.chunk.js",
+    "main.js.map": "/static/js/main.c487c640.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f76d46fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f76d46fd.js.map",
+    "static/css/2.e4812949.chunk.css": "/static/css/2.e4812949.chunk.css",
+    "static/js/2.36d65e6d.chunk.js": "/static/js/2.36d65e6d.chunk.js",
+    "static/js/2.36d65e6d.chunk.js.map": "/static/js/2.36d65e6d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.47265f6524b45d4434333ae4ecd718c3.js": "/precache-manifest.47265f6524b45d4434333ae4ecd718c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e4812949.chunk.css.map": "/static/css/2.e4812949.chunk.css.map",
+    "static/css/main.e7ef815d.chunk.css.map": "/static/css/main.e7ef815d.chunk.css.map",
+    "static/js/2.36d65e6d.chunk.js.LICENSE.txt": "/static/js/2.36d65e6d.chunk.js.LICENSE.txt",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9942588a.ttf",
+    "static/media/banner.svg": "/static/media/banner.be5b57e3.svg",
+    "static/media/blueprint-icons.css": "/static/media/icons-20.cef8cdbb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4362ce89.js",
-    "static/css/2.1b1d9db8.chunk.css",
-    "static/js/2.f6d1bd69.chunk.js",
+    "static/js/runtime-main.f76d46fd.js",
+    "static/css/2.e4812949.chunk.css",
+    "static/js/2.36d65e6d.chunk.js",
     "static/css/main.e7ef815d.chunk.css",
-    "static/js/main.8b3fff90.chunk.js"
+    "static/js/main.c487c640.chunk.js"
   ]
 }
